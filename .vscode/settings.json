@@ -1,0 +1,14 @@
+{
+  "workbench.iconTheme": "vscode-great-icons",
+  "editor.formatOnSave": true,
+  "eslint.enable": true,
+  "eslint.options": {
+    "overrideConfigFile": "./.eslintrc.cjs"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.eslintIntegration": true,
+  "git.autofetch": true
+}
